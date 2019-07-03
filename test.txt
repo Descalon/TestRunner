@@ -1,0 +1,22 @@
+00                                                                                                                                                                                                        
+35                                                  Burger                                                                                                                                                
+36                                                  Aanverwant                                                                                                                                            
+40SetName                                                                                                                                                                                                 
+41                                                                                                                                                                                                        
+42TSL-BC-B-AANV-001                                                                                                                                                                                       
+43614852539389405696                                Burger                                                                                                                                                 
+44517609855734609717                                Piet                                                                                                                                                  
+45517609855734609686                                                                                                                                                                                      
+46517609855734609717                                IsAlive                                                                                                       BAFTRUE                                  
+46614852539389405697                                Burgerservicenummer                                                                                           IAF123                                   
+46517609855734609677            20020821            Kind                                                                                                          BLFJan                                   
+46614852539389405851                                aanverwant                                                                                                    RLF                                      
+44517609855734609723                                Marietje                                                                                                                                              
+45517609855734609700                                                                                                                                                                                      
+46614852539389405697                                Burgerservicenummer                                                                                           IAF5432                                  
+46517609855734609723                                IsAlive                                                                                                       BAFTRUE                                  
+46517609855734609691                                GeregistreerdPartner                                                                                          BRFJan                                   
+44517609855734609720                                Jan                                                                                                                                                   
+45517609855734609705                                                                                                                                                                                      
+46614852539389405697                                Burgerservicenummer                                                                                           IAF312                                   
+46517609855734609720                                IsAlive                                                                                                       BAFTRUE                                  

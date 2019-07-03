@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="types/DataParser.Types.fs" />
+    <Compile Include="types/Entity.Types.fs" />
+    <Compile Include="types/TestCase.Types.fs" />
+    <Compile Include="DataParser.fs" />
+    <Compile Include="Entity.fs" />
+    <Compile Include="TestCase.fs" />
+  </ItemGroup>
+
+</Project>
