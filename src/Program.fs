@@ -1,8 +1,15 @@
-﻿// Learn more about F# at http://fsharp.org
-
-open System
+﻿open System
+open TestRunner.Server
+open System.Threading
 
 [<EntryPoint>]
 let main argv =
-    printfn "Hello World from F#!"
+    let disposable = Server.Start(port = 8090)
+    let rec fn = function
+    | "quit" -> disposable.Dispose()
+    | _ ->
+        let n = Console.ReadLine()
+        fn n
+    fn "" |> ignore
+    
     0 // return an integer exit code
